@@ -5,5 +5,7 @@ You are the Data Analyst at Carly’s Clippers, the newest hair salon on the blo
 You have been provided with three lists:
 
 hairstyles: the names of the cuts offered at Carly’s Clippers
+
 prices: the price of each hairstyle in the hairstyles list
+
 last_week: the number of each hairstyle in hairstyles that was purchased last week
