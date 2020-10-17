@@ -1,4 +1,7 @@
+
 # Carly-s-Clippers
+
+Carly-s-Clippers is a Python project.
 
 You are the Data Analyst at Carly’s Clippers, the newest hair salon on the block. Your job is to go through the lists of data that have been collected in the past couple of weeks. You will be calculating some important metrics that Carly can use to plan out the operation of the business for the rest of the month.
 
@@ -9,3 +12,23 @@ hairstyles: the names of the cuts offered at Carly’s Clippers
 prices: the price of each hairstyle in the hairstyles list
 
 last_week: the number of each hairstyle in hairstyles that was purchased last week
+
+
+## Installation
+
+Install the project locally
+```bash
+
+```
+
+## Usage
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
